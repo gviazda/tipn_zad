@@ -1,4 +1,4 @@
-pojemnoœæ dysku: 917 GB
-iloœæ pamiêci RAM: 8,00 GB
-rodzaj i prêdkoœæ procesora: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71 GHz
+pojemnoÅ›Ä‡ dysku: 917 GB
+iloÅ›Ä‡ pamiÄ™ci RAM: 8,00 GB
+rodzaj i prÄ™dkoÅ›Ä‡ procesora: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71 GHz
 system: 64-bitowy
