@@ -18,7 +18,7 @@ I’ve always been convinced that to learn language is ***not to learn the rules
 
 ##### ~~Bonus~~:
 
-Lyrics are also a great help when learning a language, I suggest *Spotify Lyrics*. Here are some of the playlists:
+Lyrics are also a great help when learning a language, I suggest *Spotify*. Here are some of the playlists:
 
 |Language|Where is it?|
 |---|---|
